@@ -1,0 +1,4 @@
+import MSSM_SLHA2
+generate p p > t1 t1~  / go ul ur dl dr cl cr sl sr t2 b1 b2 ul~ ur~ dl~ dr~ cl~ cr~ sl~ sr~ t2~ b1~ b2~ @0
+add process p p > t1 t1~ j / go ul ur dl dr cl cr sl sr t2 b1 b2 ul~ ur~ dl~ dr~ cl~ cr~ sl~ sr~ t2~ b1~ b2~ @1
+output stop
